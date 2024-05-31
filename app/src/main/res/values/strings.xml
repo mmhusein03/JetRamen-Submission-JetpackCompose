@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">JetRamen</string>
+    <string name="price">Rp %d</string>
+    <string name="placeholder_search">Cari menu favorite mu!</string>
+    <string name="menu">Menu</string>
+    <string name="menu_favorite">Best Seller Menu</string>
+    <string name="menu_profile">Profile</string>
+    <string name="add_to_cart">Tambah ke Keranjang : Rp %d</string>
+    <string name="back">Back</string>
+    <string name="thanks_message">Terima kasih sudah order :)</string>
+    <string name="menu_cart">Keranjang</string>
+    <string name="total_order">Total pesanan : Rp %d</string>
+    <string name="menu_home">Home</string>
+    <string name="dicoding_reward">Order Ramen</string>
+    <string name="description_text">\" I am a Student of Muhammadiyah University of Surakarta with a passion for Android development. I have been learning about Android development since 2022 through Dicoding Indonesia path Android Developer and now i\'ve been part of Cohort Mobile Development from the Bangkit Academy, a program led by Google, Tokopedia, Gojek, and Traveloka. I am a self-motivated and team-oriented individual with a strong work ethic. I am able to work under pressure and meet deadlines, and I am always willing to learn new things. \"</string>
+    <string name="name">Muhammad Maulana Husein</string>
+    <string name="email">l200200266@student.ums.ac.id</string>
+    <string name="profile">profile image</string>
+    <string name="title_profile">Profile</string>
+    <string name="empty_list">Menu tidak tersedia :)</string>
+    <string name="plus_symbol">＋</string>
+    <string name="minus_symbol">—</string>
+</resources>
